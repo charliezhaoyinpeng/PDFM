@@ -13,7 +13,7 @@ The problem of learning to generalize on unseen classes during the training step
 ```
 @inproceedings{zhao2020pdfm,
   title={A Primal-Dual Subgradient Approach for Fair Meta Learning},
-  author={Zhao, Chen  and Chen, Feng and Wang, Zhuoyi and Khan, Latifur},
+  author={Zhao, Chen and Chen, Feng and Wang, Zhuoyi and Khan, Latifur},
   booktitle={2020 IEEE International Conference on Data Mining (ICDM)},
   year={2020},
   organization={IEEE}
